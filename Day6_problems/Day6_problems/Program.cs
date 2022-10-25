@@ -7,7 +7,7 @@
             Day6_Problems num = new Day6_Problems();
             num.Fibonacci_Series();
             num.Perfect_Number();
-            
+            num.Prime_Number();
         }
     }
 }
