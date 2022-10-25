@@ -8,6 +8,7 @@
             num.Fibonacci_Series();
             num.Perfect_Number();
             num.Prime_Number();
+            num.Reverse_Number();
         }
     }
 }
