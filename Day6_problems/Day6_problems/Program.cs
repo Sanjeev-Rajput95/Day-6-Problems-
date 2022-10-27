@@ -10,6 +10,7 @@
             num.Prime_Number();
             num.Reverse_Number();
             num.generateNDistinctCouponNum(15);
+            num.Simulate_Stopwatch();
            
         }
     }

@@ -141,5 +141,14 @@ namespace Day6_problems
                 Console.WriteLine(CouponNumber[i]);
             }
         }
+
+
+        public void Simulate_Stopwatch()
+        {
+            Console.WriteLine("\n ");
+            DateTime start = DateTime.Parse(" 7:30");
+            DateTime end = DateTime.Parse(" 16:00 ");
+            Console.WriteLine((end - start).TotalHours);
+        }
     }
 }
